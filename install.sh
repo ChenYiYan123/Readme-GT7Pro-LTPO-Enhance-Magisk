@@ -24,7 +24,7 @@ print_modname()
 {
     echo ""
     echo "* 作者: 我是江小白_"
-    echo "* 版本: v1.4"
+    echo "* 版本: v1.0"
     echo ""
 }
 
